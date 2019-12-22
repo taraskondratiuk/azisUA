@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/1PROGA/sharaga/azisUA/lab8/main.c
+stdio.h
+-
+math.h
+F:/1PROGA/sharaga/azisUA/lab8/math.h
+
