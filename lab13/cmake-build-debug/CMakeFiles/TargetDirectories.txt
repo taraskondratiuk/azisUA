@@ -1,3 +1,0 @@
-F:/1PROGA/sharaga/azisUA/lab13/cmake-build-debug/CMakeFiles/lab13.dir
-F:/1PROGA/sharaga/azisUA/lab13/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/1PROGA/sharaga/azisUA/lab13/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
- A "structure     declaration" names a type and   specifies a sequence of   variable values (called "members" or "fields" of the structure) that Can have different types. An optional identifier, called a "tag," (GIVEs)   the name of the            (structure type and can be Used in                                   subsequent ).
